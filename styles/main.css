@@ -257,6 +257,10 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f16d";
 }
+.twitch::before {
+  font-family: "Font Awesome 5 Brands";
+  content: "\f1e8";
+}
 
 .github::before {
   font-family: "Font Awesome 5 Brands";
